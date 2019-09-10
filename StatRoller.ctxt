@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StatRoller
+comment0.text=\r\n\ Rolls\ a\ set\ of\ 6\ stats,\ and\ returns\ an\ array\ of\ Stat\ objects.\r\n\ User\ chooses\ method.\ In\ method\ 2,\ the\ Stats\ are\ rolled\ and\ \r\n\ assigned\ to\ ability\ scores\r\n\r\n\ @Joe\ Manship\r\n\ @updated\ 4/18/19\r\n
+comment1.params=
+comment1.target=void\ statRolls()
+comment2.params=method
+comment2.target=Stat[]\ Stats(int)
+numComments=3

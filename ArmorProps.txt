@@ -1,0 +1,500 @@
+999 Agility  //+1
+999 Agility
+999 Stamina
+999 Stamina
+919 Blueshine
+919 Blueshine
+999 Easy Travel
+999 Easy Travel
+999 Called
+999 Called
+999 Called
+999 Commander
+999 Commander
+999 Commander
+999 Glamered
+999 Glamered
+999 Glamered
+999 Daylight
+999 Daylight
+999 Daylight
+999 Mindarmor
+999 Mindarmor
+999 Mindarmor
+999 Mindarmor
+999 Acidic
+999 Acidic
+999 Acidic
+999 Anchoring
+999 Anchoring
+999 Anchoring
+999 Anchoring
+999 Blurring
+999 Blurring
+999 Blurring
+999 Blurring
+999 Death ward
+999 Death ward
+999 Death ward
+999 Displacement
+999 Displacement
+999 Displacement
+199 Dragon Dodger
+199 Dragon Dodger
+199 Dragon Dodger
+999 Ectoplasmic Feedback
+999 Ectoplasmic Feedback
+999 Ectoplasmic Feedback
+999 Fortification, light
+999 Fortification, light
+999 Fortification, light
+999 Ghost ward
+999 Ghost ward
+999 Ghost ward
+999 Ghost ward
+199 Mobility
+199 Mobility
+199 Mobility
+199 Mobility
+999 Nimbleness
+999 Nimbleness
+999 Nimbleness
+999 Nimbleness
+999 Soulbound
+999 Soulbound
+999 Styptic
+999 Styptic
+999 Styptic
+999 Twilight
+999 Twilight
+999 Twilight
+999 Balance
+999 Balance
+999 Balance
+999 Shadow
+999 Shadow
+999 Shadow
+999 Shadow
+999 Silent Moves
+999 Silent Moves
+999 Silent Moves
+999 Silent Moves
+999 Slick
+999 Slick
+999 Slick
+999 Slick
+999 Buoyant
+999 Buoyant
+999 Buoyant
+999 Landing
+999 Landing
+999 Landing
+999 Agility, Improved
+999 Agility, Improved
+999 Agility, Improved
+999 Stamina, Improved
+999 Stamina, Improved
+999 Stamina, Improved
+999 Quickness
+999 Quickness
+999 Quickness
+999 Gilled     //+2
+999 Gilled
+999 Gilled
+999 Linked
+999 Linked
+999 Linked
+999 Linked
+999 Linked
+999 Speed
+999 Speed
+999 Speed
+999 Speed
+999 Speed
+999 Speed
+999 Speed
+999 Speed
+999 Speed
+999 Healing
+999 Healing
+999 Healing
+999 Healing
+999 Healing
+999 Healing
+999 Healing
+999 Healing
+999 Anchoring, Greater
+999 Anchoring, Greater
+999 Anchoring, Greater
+999 Anchoring, Greater
+999 Anchoring, Greater
+999 Anchoring, Greater
+999 Anchoring, Greater
+999 Axeblock
+999 Axeblock
+999 Axeblock
+999 Axeblock
+999 Axeblock
+999 Axeblock
+999 Axeblock
+999 Beastskin
+999 Beastskin
+999 Beastskin
+999 Beastskin
+999 Energy Defense
+999 Energy Defense
+999 Energy Defense
+999 Energy Defense
+999 Energy Defense
+999 Energy Defense
+999 Energy Defense
+999 Energy Defense
+999 Energy Immunity
+999 Energy Immunity
+999 Energy Immunity
+999 Energy Immunity
+999 Energy Immunity
+999 Energy Immunity
+999 Energy Immunity
+999 Energy Immunity
+999 Energy Immunity
+999 Hammerblock
+999 Hammerblock
+999 Hammerblock
+999 Hammerblock
+999 Hammerblock
+999 Hammerblock
+999 Hammerblock
+999 Retaliation
+999 Retaliation
+999 Retaliation
+999 Retaliation
+999 Retaliation
+999 Retaliation
+999 Spearblock
+999 Spearblock
+999 Spearblock
+999 Spearblock
+999 Spearblock
+999 Spearblock
+999 Spearblock
+999 Spell Resistance (13)
+999 Spell Resistance (13)
+999 Spell Resistance (13)
+999 Spell Resistance (13)
+999 Spell Resistance (13)
+999 Spell Resistance (13)
+999 Spell Resistance (13)
+999 Spell Resistance (13)
+999 Woodwalk
+999 Woodwalk
+999 Woodwalk
+999 Woodwalk
+999 Woodwalk
+999 Magic-eating
+999 Magic-eating
+999 Magic-eating
+999 Magic-eating
+999 Magic-eating
+999 Magic-eating
+999 Magic-eating
+999 Deepdweller                //+3
+999 Balance, improved
+999 Balance, improved
+999 Balance, improved
+999 Balance, improved
+999 Agility, Greater
+999 Agility, Greater
+999 Agility, Greater
+999 Agility, Greater
+999 Stamina, Greater
+999 Stamina, Greater
+999 Stamina, Greater
+999 Stamina, Greater
+999 Bane Blind
+999 Bane Blind
+999 Bane Blind
+999 Bane Blind
+999 Blinking
+999 Blinking
+999 Blinking
+999 Blinking
+999 Blinking
+999 Fearsome
+999 Fearsome
+999 Fearsome
+999 Fearsome
+999 Shadow, Improved
+999 Shadow, Improved
+999 Shadow, Improved
+999 Shadow, Improved
+999 Shadow, Improved
+999 Silent Moves, Improved
+999 Silent Moves, Improved
+999 Silent Moves, Improved
+999 Silent Moves, Improved
+999 Silent Moves, Improved
+999 Silent Moves, Improved
+999 Slick, Improved
+999 Slick, Improved
+999 Slick, Improved
+999 Slick, Improved
+999 Slick, Improved
+999 Bluring, Greater
+999 Bluring, Greater
+999 Bluring, Greater
+999 Bluring, Greater
+999 Fortification, Moderate
+999 Fortification, Moderate
+999 Fortification, Moderate
+999 Fortification, Moderate
+999 Fortification, Moderate
+999 Ghost Touch
+999 Ghost Touch
+999 Ghost Touch
+999 Ghost Touch
+999 Invulnerability
+999 Invulnerability
+999 Invulnerability
+999 Invulnerability
+999 Roaring
+999 Roaring
+999 Roaring
+999 Soulbound, Greater
+999 Soulbound, Greater
+999 Spell Resistance (15)
+999 Spell Resistance (15)
+999 Spell Resistance (15)
+999 Spell Resistance (15)
+999 Spell Resistance (15)
+999 Vanishing
+999 Vanishing
+999 Vanishing
+999 Vanishing
+999 Wild
+999 Wild
+999 Wild
+999 Acid Resistance
+999 Acid Resistance
+999 Acid Resistance
+999 Acid Resistance
+999 Acid Resistance
+999 Cold Resistance
+999 Cold Resistance
+999 Cold Resistance
+999 Cold Resistance
+999 Cold Resistance
+999 Electricity Resistance
+999 Electricity Resistance
+999 Electricity Resistance
+999 Electricity Resistance
+999 Electricity Resistance
+999 Fire Resistance
+999 Fire Resistance
+999 Fire Resistance
+999 Fire Resistance
+999 Fire Resistance
+999 Sonic Resistance
+999 Sonic Resistance
+999 Sonic Resistance
+999 +21
+999 Radiant          //+4
+999 Radiant
+999 Radiant
+999 Radiant
+999 Radiant
+999 Radiant
+999 Radiant
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Spell Resistance (17)
+999 Menacing
+999 Menacing
+999 Menacing
+999 Menacing
+999 Menacing
+999 Menacing
+999 Menacing
+999 Menacing
+999 Menacing
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Healing, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Balance, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Shadow, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Silent Moves, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 Slick, Greater
+999 +31
+999 +31
+999 +31
+999 +31
+999 +31
+999 +31
+999 +31
+999 +31
+999 +31
+999 +31
+999 +31
+999 +22
+999 +22
+999 +22
+999 +22
+999 +22
+999 +22
+999 +22
+999 +22
+999 +22
+999 +22
+999 +22
+999 Fortification, Heavy
+999 Fortification, Heavy
+999 Fortification, Heavy
+999 Fortification, Heavy
+999 Freedom
+999 Freedom
+999 Freedom
+999 Freedom
+999 Freedom
+999 Spell Resistance(19)
+999 Spell Resistance(19)
+999 Spell Resistance(19)
+999 Spell Resistance(19)
+999 Spell Resistance(19)
+999 Spell Resistance(19)
+999 Aporter
+999 Aporter
+999 Aporter
+999 Aporter
+999 Masking
+999 Masking
+999 Masking
+999 Masking
+999 Masking
+999 Acid Resistance, Improved
+999 Acid Resistance, Improved
+999 Acid Resistance, Improved
+999 Acid Resistance, Improved
+999 Acid Resistance, Improved
+999 Acid Resistance, Improved
+999 Acid Resistance, Improved
+999 Acid Resistance, Improved
+999 Cold Resistance, Improved
+999 Cold Resistance, Improved
+999 Cold Resistance, Improved
+999 Cold Resistance, Improved
+999 Cold Resistance, Improved
+999 Cold Resistance, Improved
+999 Cold Resistance, Improved
+999 Cold Resistance, Improved
+999 Electricity Resistance, Improved
+999 Electricity Resistance, Improved
+999 Electricity Resistance, Improved
+999 Electricity Resistance, Improved
+999 Electricity Resistance, Improved
+999 Electricity Resistance, Improved
+999 Electricity Resistance, Improved
+999 Electricity Resistance, Improved
+999 Fire Resistance, Improved
+999 Fire Resistance, Improved
+999 Fire Resistance, Improved
+999 Fire Resistance, Improved
+999 Fire Resistance, Improved
+999 Fire Resistance, Improved
+999 Fire Resistance, Improved
+999 Fire Resistance, Improved
+999 Sonic Resistance, Improved
+999 Sonic Resistance, Improved
+999 Sonic Resistance, Improved
+999 Sonic Resistance, Improved
+999 Sonic Resistance, Improved
+999 Sonic Resistance, Improved
+999 Sonic Resistance, Improved
+999 Etherealness
+999 Etherealness
+999 Etherealness
+999 Etherealness
+999 Etherealness
+999 Undead Controlling
+999 Undead Controlling
+999 Acid Resistance, Greater
+999 Acid Resistance, Greater
+999 Acid Resistance, Greater
+999 Acid Resistance, Greater
+999 Acid Resistance, Greater
+999 Acid Resistance, Greater
+999 Cold Resistance, Greater
+999 Cold Resistance, Greater
+999 Cold Resistance, Greater
+999 Cold Resistance, Greater
+999 Cold Resistance, Greater
+999 Cold Resistance, Greater
+999 Electricity Resistance, Greater
+999 Electricity Resistance, Greater
+999 Electricity Resistance, Greater
+999 Electricity Resistance, Greater
+999 Electricity Resistance, Greater
+999 Electricity Resistance, Greater
+999 Fire Resistance, Greater
+999 Fire Resistance, Greater
+999 Fire Resistance, Greater
+999 Fire Resistance, Greater
+999 Fire Resistance, Greater
+999 Fire Resistance, Greater
+999 Sonic Resistance, Greater
+999 Sonic Resistance, Greater
+999 Sonic Resistance, Greater
+999 Sonic Resistance, Greater
+999 +41
+999 +32

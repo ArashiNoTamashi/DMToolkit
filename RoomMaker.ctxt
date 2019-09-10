@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomMaker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RoomMaker\ here.\r\n\r\n\ @author\ Joe\ Manship\r\n\ @version\ 1/23/19\r\n
+comment1.params=
+comment1.target=void\ MakeRoom()
+comment2.params=CR
+comment2.target=void\ buildDungeon(int)
+comment3.params=input
+comment3.target=void\ saveToFile(java.lang.String)
+numComments=4

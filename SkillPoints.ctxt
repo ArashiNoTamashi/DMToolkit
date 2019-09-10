@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SkillPoints
+comment0.text=\r\n\ Based\ upon\ user\ input\ (2/19/19),\ provides\ starting\ and\ per\ level\ skill\ points\ and\ displays\ caps\ on\ skill\ point\ allocation\r\n\ 4/18/19\ update\ allows\ for\ a\ quick-calculator\ for\ use\ by\ the\ character\ generator.\r\n\ @author\ Joe\ Manship\r\n\ @version\ Updated\ 4/18/19\r\n
+comment1.params=
+comment1.target=void\ skillCalc()
+comment2.params=score
+comment2.target=int\ getMod(int)
+comment3.params=level\ pointsPerLevel\ intMod\ isHuman
+comment3.target=int\ autoCalc(int,\ int,\ int,\ boolean)
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=XPCalc
+comment0.text=\r\n\ Calculates\ XP\ and\ treasure\ based\ upon\ \#\ and\ cr\ of\ enemies\r\n\r\n\ @author\ Joe\ Manship\r\n\ @version\ 2/18/19\r\n
+comment1.params=
+comment1.target=void\ CalcXP()
+numComments=2

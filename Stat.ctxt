@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Stat
+comment0.text=\r\n\ An\ object\ to\ hold\ a\ single\ basic\ stat\ for\ a\ character\r\n\r\n\ @author\ (Joe\ Manship)\r\n\ @version\ (5/21/19)\r\n
+comment1.params=
+comment1.target=Stat()
+comment10.params=num
+comment10.target=java.lang.String\ getName(int)
+comment2.params=score
+comment2.target=Stat(int)
+comment3.params=score\ name
+comment3.target=Stat(int,\ java.lang.String)
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=modifier
+comment6.target=int\ modScore(int)
+comment7.params=
+comment7.target=int\ getMod()
+comment8.params=score
+comment8.target=int\ getMod(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11

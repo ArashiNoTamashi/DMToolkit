@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CharClass
+comment0.text=\r\n\ The\ primary\ class\ to\ control\ the\ generic\ aspects\ of\ the\ various\r\n\ character\ classes.\ Using\ this\ methods\ allows\ for\ simple\ and\ \r\n\ efficient\ addition\ of\ further\ classes\ to\ the\ list\ of\ supported\ \r\n\ classes.\r\n\r\n\ @author\ (Joe\ Manship)\r\n\ @version\ (5/21/19)\r\n
+comment1.params=
+comment1.target=CharClass()
+comment10.params=num
+comment10.target=void\ addRanks(int)
+comment2.params=saveTier\ level\ statMod
+comment2.target=int\ getSave(char,\ int,\ int)
+comment3.params=babTier\ level
+comment3.target=void\ setBAB(char,\ int)
+comment4.params=hitDice\ level\ con
+comment4.target=int\ getHP(int,\ int,\ Stat)
+comment5.params=bonus
+comment5.target=java.lang.String\ getAttacks(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=num
+comment7.target=boolean\ checkEven(int)
+comment8.params=arr\ s
+comment8.target=boolean\ arrayContains(Skill[],\ Skill)
+comment9.params=classSkills
+comment9.target=void\ splitSkills(Skill[])
+numComments=11

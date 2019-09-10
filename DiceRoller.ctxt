@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DiceRoller
+comment0.text=\r\n\ A\ minimalistic\ dice\ roller\r\n\ @author\ Joe\ Manship\r\n\ @version\ 4/18/19\r\n
+comment1.params=
+comment1.target=void\ RollDice()
+numComments=2

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=HoardMaker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HoardMaker\ here.\r\n\r\n\ @author\ (Joe\ Manship)\r\n\ @version\ (3/21/19)\r\n
+comment1.params=
+comment1.target=void\ makeHoard()
+comment10.params=input
+comment10.target=void\ saveToFile(java.lang.String)
+comment2.params=cr
+comment2.target=void\ getCoins(int)
+comment3.params=cr
+comment3.target=void\ getGoods(int)
+comment4.params=cr
+comment4.target=void\ getTreasure(int)
+comment5.params=itemType
+comment5.target=void\ printTreasure(char)
+comment6.params=itemType
+comment6.target=void\ printGoods(char)
+comment7.params=roll\ cr
+comment7.target=int\ getOffset(int,\ int)
+comment8.params=denomination
+comment8.target=java.lang.String\ getDenom(int)
+comment9.params=num\ cr
+comment9.target=void\ treasureLoop(int,\ int)
+numComments=11

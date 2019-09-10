@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Weapon
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Weapon\ here.\r\n\r\n\ @author\ (Joe\ Manship)\r\n\ @version\ (8/23/18)\r\n
+comment1.params=numPlus
+comment1.target=Weapon(int)
+comment2.params=
+comment2.target=void\ makeWeapon()
+comment3.params=numPlus
+comment3.target=void\ plusToProps(int)
+comment4.params=
+comment4.target=boolean\ compCheck()
+comment5.params=
+comment5.target=void\ getProp()
+comment6.params=c
+comment6.target=boolean\ isAmmo(char)
+comment7.params=c
+comment7.target=boolean\ isRanged(char)
+comment8.params=c
+comment8.target=boolean\ isSpear(char)
+comment9.params=
+comment9.target=void\ print()
+numComments=10

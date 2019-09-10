@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Fighter
+comment0.text=\r\n\ Fighter\ Class\ extending\ the\ CharClass\ class\ to\ allow\ a\ "fighter"\ character\r\n\r\n\ @author\ (Joe\ Manship)\r\n\ @version\ (5/21/19)\r\n
+comment1.params=level
+comment1.target=Fighter(int)
+comment2.params=scores
+comment2.target=void\ buildFighter(int[])
+numComments=3

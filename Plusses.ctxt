@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Plusses
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Plusses\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=numPlus
+comment1.target=Plusses(int)
+comment2.params=numPlus
+comment2.target=void\ plusToProps(int)
+comment3.params=numPlus
+comment3.target=int[]\ getName(int)
+comment4.params=numPlus
+comment4.target=int[]\ getProps(int)
+numComments=5
