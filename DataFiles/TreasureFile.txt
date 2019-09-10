@@ -1,0 +1,201 @@
+-
+-
+A+
+B+
+B+
+BA+
+-
+B+
+BA+
+BA+ //1
+-
+-
+B+
+BA+
+BB+
+BBA+
+BA+
+BB+
+C+
+C+ //2
+B+
+B+
+C+
+C+
+C+
+CB+
+CA+
+CB+
+D+
+D+ //3
+BA+
+BB+
+CB+
+CB+
+CB+
+D+
+CB+
+D+
+DB+
+E+ //4
+C+
+C+
+D+
+D+
+D+
+E+
+D+
+E+
+F+
+F+ //5
+D+
+D+
+DB+
+DB+
+DB+
+E+
+DB+
+EC+
+F+
+G+ //6
+D+
+D+
+DB+
+E+
+E+
+EC+
+EC+
+FB+
+G+
+H+ //7
+E+
+E+
+EB+
+F+
+F+
+G+
+G+
+GD+
+H+
+I+ //8
+E+
+EB+
+F+
+F+
+G+
+GD+
+GC+
+H+
+I+
+J+ //9
+F+
+F+
+G+
+GB+
+GC+
+H+
+H+
+I+
+J+
+K+ //10
+G+
+G+
+H+
+H+
+HC+
+I+
+I+
+J+
+K+
+L+ //11
+H+
+H+
+I+
+I+
+I+
+J+
+J+
+K+
+L+
+M+ //12
+I+
+I+
+J+
+J+
+K+
+KF+
+L+
+LF+
+M+
+N+ //13
+J+
+J+
+K+
+KF+
+L+
+LG+
+M+
+MF+
+N+
+O+ //14
+K+
+K+
+L+
+L+
+M+
+MI+
+N+
+NG+
+O+
+P+ //15
+L+
+L+
+M+
+MG+
+N+
+NI+
+O+
+OI+
+P+
+Q+ //16
+M+
+M+
+N+
+N+
+O+
+OH+
+P+
+Q+
+R+
+S+ //17
+N+
+O+
+OJ+
+P+
+P+
+Q+
+R+
+S+
+T+
+U+ //18
+O+
+P+
+PH+
+Q+
+QK+
+R+
+S+
+T+
+U+
+V+ //19
+P+
+Q+
+R+
+S+
+T+
+U+
+V+
+W+
+X+
+Y+
+Z+

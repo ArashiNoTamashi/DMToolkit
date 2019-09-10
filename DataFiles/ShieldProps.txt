@@ -1,0 +1,70 @@
++
+7  Heartening
+14 Called
+17 Commander
+23 Daylight
+29 Mindarmor
+32 Acidic
+36 Anchoring
+40 Arrow catching
+48 Bashing
+56 Blinding
+59 Death Ward
+68 Fortification, light
+76 Ghost Ward
+84 Ranged
+89 Soulbound
+100 Variable
++
+8  Linked
+13 Manifester
+20 Speed
+24 Anchoring, greater
+33 Animated
+41 Arrow Deflection
+49 Axeblock
+57 Ectoplasmic wall
+66 Energy Defense
+75 Energy Immunity
+83 Hammerblock
+91 Spearblock
+100 Spell Resistance (13)
++
+7 Fearsome
+14 Averter
+22 Fortification, Moderate
+30 Ghost Touch
+33 Soulbound, Greater
+42 Spell resistance (15)
+49 Vanishing
+54 Wild
+63 Acid Resistance
+72 Cold Resistance
+81 Electricity Resistance
+90 Fire Resistance
+98 Sonic Resistance
+100 two,one
++
+37 Spell Resistance (17)
+62 three,one
+100 two,two
++
+4 Fortification, heavy
+11 Reflecting
+18 Spell resistance (19)
+24 Time buttress
+28 Aporter
+36 Acid resistance, improved
+44 Cold resistance, improved
+52 Electricity resistance, improved
+60 Fire resistance, improved
+67 Sonic resistance, improved
+69 Undead controlling
+75 Acid resistance, greater
+81 Cold resistance, greater
+87 Electricity resistance, greater
+93 Fire resistance, greater
+98 Sonic resistance, greater
+99 four,one
+100 three,two
+

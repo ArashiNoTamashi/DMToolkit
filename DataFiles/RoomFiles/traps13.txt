@@ -1,0 +1,76 @@
+Basic Arrow Trap
+1 20 20
+Camouflaged Pit Trap
+1 20 24
+Deeper Pit Trap
+1 20 23
+Doorknob Smeared with Contact Poison
+1 19 19
+Fusillade of Darts
+1 14 20
+Poison Dart Trap
+1 20 18
+Poison Needle Trap
+1 22 20
+Portcullis Trap
+1 20 20
+Razor-Wire Across Hallway
+1 22 15
+Rolling Rock Trap
+1 20 22
+Scything Blade Trap
+1 21 20
+Spear Trap
+1 20 20
+Swinging Block Trap
+1 20 20
+Wall Blade Trap
+1 22 22
+Box of Brown Mold
+2 22 16
+Bricks from Ceiling
+2 20 20
+Burning Hands Trap
+2 26 26
+Camouflaged Pit Trap
+2 24 19
+Inflict Light Wounds Trap
+2 26 26
+Javelin Trap
+2 20 18
+Large Net Trap
+2 20 18
+Pit Trap
+2 20 20
+Poison Needle Trap
+2 22 17
+Spiked Pit Trap
+2 18 15
+Tripping Chain
+2 15 18
+Well-Camouflaged Pit Trap
+2 27 20
+Burning Hands Trap
+3 26 26
+Camouflaged Pit Trap
+3 24 18
+Ceiling Pendulum
+3 15 27
+Extended Bane Trap
+3 27 27
+Fire Trap
+3 27 27
+Ghoul Touch Trap
+3 27 27
+Hail of Needles
+3 22 22
+Melf's Acid Arrow Trap
+3 27 27
+Pit Trap
+3 20 20
+Poisoned Arrow Trap
+3 19 15
+Spiked Pit Trap
+3 21 20
+Stone Blocks from Ceiling
+3 25 20

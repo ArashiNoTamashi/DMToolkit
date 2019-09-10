@@ -1,0 +1,99 @@
+Alcove
+Altar
+Arch
+Arrow slit (wall)/murder hole (ceiling)
+Balcony
+Barrel
+Bed
+Bench
+Bookcase
+Brazier
+Cage
+Caldron
+Carpet
+Carving
+Casket
+Catwalk
+Chair
+Chandelier
+Charcoal bin
+Chasm
+Chest
+Chest of drawers
+Chute
+Coat Rack
+Collapsed wall
+Crate
+Cupboard
+Curtain
+Divan
+Dome
+Door(broken)
+Dung heap
+Evil symbol
+Fallen stones
+Firepit
+Fireplace
+Font
+Forge
+Fountain
+Furniture (broken)
+Gong
+Hay (pile)
+Hole
+Hole (blasted)
+Idol
+Iron bars
+Iron maiden
+Kiln
+Ladder
+Ledge
+Loom
+Loose masonry
+Manacles
+Manger
+Mirror
+Mosaic
+Mound of rubble
+Oven
+Overhang
+Painting
+Partially collapsed ceiling
+Pedestal
+Peephole
+Pillar
+Pillory
+Pit (shallow)
+Platform
+Pool
+Portcullis
+Rack
+Ramp
+Recess
+Relief
+Sconce
+Screen
+Shaft
+Shrine
+Spinning wheel
+Stall or pens
+Statue
+Statue (toppled)
+Steps
+Stool
+Stuffed beast
+Sunken area
+Table (large)
+Table (small)
+Tapestry
+Throne
+Trash (pile)
+Tripod
+Trough
+Tub
+Wall basin
+Wardrobe
+Weapon rack
+Well
+Winch and pulley
+Workbench

@@ -1,0 +1,8 @@
+Bestow Curse Trap
+4 28 28
+Camouflaged Pit Trap
+4 25 17
+Collapsing Column
+4 20 24
+Glyph of Warding
+4 28 24

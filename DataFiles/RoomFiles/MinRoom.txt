@@ -1,0 +1,100 @@
+Anvil
+Ash
+Backpack
+Bale (straw)
+Bellows
+Belt
+Bits of fur
+Blanket
+Bloodstains
+Bones (humanoid)
+Bones (non-humanoid)
+Books
+Boots
+Bottle
+Box
+Branding iron
+Broken glass
+Bucket
+Candle
+Candelabra
+Cards (playing cards)
+Chains
+Claw marks
+Cleaver
+Clothing
+Cobwebs
+Cold spot
+Corpse (adventurer)
+Corpse (monster)
+Cracks
+Dice
+Discarded weapons
+Dishes
+Dripping water
+Drum
+Dust
+Engraving
+Equipment (broken)
+Equipment (usable)
+Flask
+Flint and tinder
+Foodstuffs (spoiled)
+Foodstuffs (edible)
+Fungus
+Grinder
+Hook
+Horn
+Hourglass
+Insects
+Jar
+Keg
+Key
+Lamp
+Lantern
+Markings
+Mold
+Mud
+Mug
+Musical instrument
+Mysterious stain
+Nest (animal)
+Odor (unidentifiable)
+Oil (fuel)
+Oil (scented)
+Paint
+Paper
+Pillows
+Pipe (smoking pipe)
+Pole
+Pot
+Pottery shard
+Pouch
+Puddle (water)
+Rags
+Razor
+Rivulet
+Ropes
+Runes
+Sack
+Scattered stones
+Scorch marks
+Scroll (non-magical)
+Scroll case (empty)
+Skull
+Slime
+Sound (unexplained)
+Spices
+Spike
+Teeth
+Tongs
+Tools
+Torch (stub)
+Tray
+Trophy
+Twine
+Urn
+Utensils
+Whetstone
+Wood (scraps)
+Words (scrawled)

@@ -1,0 +1,20 @@
+Aasimar (planetouched)
+Dwarf, deep
+Dwarf, hill
+Dwarf, mountain
+Elf, gray
+Elf, high
+Elf, wild
+Elf, wood
+Gnome, forest
+Gnome, rock
+Half-elf
+Halfling, lightfoot
+Halfling, deep
+Halfling, tallfellow
+Half-orc
+Human
+Gnome, svirfneblin
+Half-celestial& //& indicates "reroll and add to"
+Half-dragon&
+Werebear (lycanthrope)&

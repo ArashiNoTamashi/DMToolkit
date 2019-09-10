@@ -1,0 +1,28 @@
+Dwarf, deep
+3
+Dwarf, hill
+30
+Dwarf, mountain
+8
+Elf, gray
+1
+Elf, high
+5
+Gnome, rock
+1
+Half-elf
+2
+Halfling, lightfoot
+1
+Halfling, deep
+1
+Half-orc
+5
+Human
+40
+Half-celestial& //& indicates "reroll and add to"
+1
+Half-dragon&
+1
+Werebear (lycanthrope)&
+1

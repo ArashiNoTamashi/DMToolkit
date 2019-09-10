@@ -1,0 +1,32 @@
+Dwarf, deep
+Dwarf, hill
+Elf, high
+Elf, wild
+Elf, wood
+Half-elf
+Halfling, lightfoot
+Halfling, deep
+Halfling, tallfellow
+Half-orc
+Human
+Lizardfolk
+Goblin
+Hobgoblin
+Kobold
+Orc
+Tiefling (planetouched)
+Drow (elf), female //this actually matters (for this race only)
+Drow (elf), male
+Dwarf, duergar
+Derro
+Gnoll
+Troglodyte
+Bugbear
+Ogre
+Minotaur
+Mind flayer
+Ogre Mage
+Wererat (lycanthrope)&
+Werewolf (lycanthrope)&
+Half-fiend&
+Half-dragon&

@@ -1,0 +1,33 @@
+OLD
+
+spears
+bows
+crossbows
+2 handed
+energy
+blunt
+piercing
+melee/ranged
+thrown
+light
+slash
+
+
+WEAPNEW
+
+ranged/melee/ammo (0/1/2) //after '2' prevent checking
+NA/thrown/bow/xbow (0/1/2/3)
+blunt/pierce/slash/pierce&slash/pierce&bludgeon/NA (BB/PP/SS/PS/PB/NA)
+non-light/light (0/1)
+1hand/2hand (1/2)
+non-spear/spear (0/1)
+
+
+
+
+
+shield/armor (0/1)
+nonlight/light (0/1)
+nonmetal/metal (0/1)
+tower shield (1)
+doesnt check, propnum = 9

@@ -1,0 +1,28 @@
+Status on project
+
+MainMenu:
+ -hoard generator implemented with limited functionality (see below)
+ -otherwise fully operational
+
+SkillPoints:
+ -fully operational
+ 
+DiceRoller:  
+ -fully operational
+ -dice setup complete
+
+StatRoller:
+ -fully operational
+
+HoardMaker:
+ -coins good 100%
+ -Goods operational 100%
+ -basic algorithm determined and implemented. 
+ -Items operational 100%
+
+Stretch goals:
+
+ -magic item read/generation files
+ -possbile optimization if files can be passed as arguments
+ -armor/weapon files 100%
+

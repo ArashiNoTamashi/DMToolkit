@@ -1,0 +1,99 @@
+2         Arrows(50)
+2         Arrows(50)
+10SS020   Axe, orc double
+11SS110   Axe, throwing
+10SS010   Battleaxe
+01BB010   Bolas
+2         Bolts, crossbow(50)
+2         Bolts, crossbow(50)
+2         Bullets, sling(50)
+2         Bullets, sling(50)
+10PP020   Chain, spiked
+11BB010   Club
+03PP020   Crossbow, hand
+03PP020   Crossbow, heavy
+03PP020   Crossbow, heavy
+03PP020   Crossbow, light
+03PP020   Crossbow, light
+03PP020   Crossbow, repeating heavy
+03PP020   Crossbow, repeating light
+11PS110   Dagger
+11PS110   Dagger
+10PP110   Dagger, punching
+01PP010   Dart
+10SS020   Falchion
+10BB020   Flail, dire
+10BB020   Flail, heavy
+10BB010   Flail, light
+10BB010   Gauntlet
+10PP110   Gauntlet, spiked
+10SS020   Glaive
+10SS020   Greataxe
+10SS020   Greataxe
+10BB020   Greatclub
+10SS020   Greatsword
+10SS020   Greatsword
+10SS020   Guisarme
+10PS020   Halberd
+10BP020   Hammer, gnomish hooked
+11BB110   Hammer, light
+10SS110   Handaxe
+01PP010   Javelin
+10SS110   Kama
+10SS110   Kukri
+10SS020   Lance
+02PP020   Longbow
+02PP020   Longbow
+02PP020   Longbow, composite (+0 Str bonus)
+02PP020   Longbow, composite (+1 Str bonus)
+02PP020   Longbow, composite (+2 Str bonus)
+02PP020   Longbow, composite (+3 Str bonus)
+02PP020   Longbow, composite (+4 Str bonus)
+02PP020   Longbow, composite (+5 Str bonus)
+10PP021   Longspear
+10SS010   Longsword
+10SS010   Longsword
+10BB010   Mace, heavy
+10BB010   Mace, heavy
+10BB110   Mace, light
+10PB010   Morningstar
+01NA020   Net
+10BB110   Nunchaku
+10PP010   Pick, heavy
+10PP110   Pick, light
+10BB020   Quarterstaff
+10BB020   Quarterstaff
+10SS020   Ranseur
+10PP010   Rapier
+10PP010   Rapier
+11BB110   Sai
+10BB110   Sap 
+10SS010   Scimitar
+10SS010   Scimitar
+10PS020   Scythe
+02PP020   Shortbow
+02PP020   Shortbow
+02PP020   Shortbow, composite (+0 Str bonus)
+02PP020   Shortbow, composite (+1 Str bonus)
+02PP020   Shortbow, composite (+2 Str bonus)
+02PP020   Shortbow, composite (+3 Str bonus)
+02PP020   Shortbow, composite (+4 Str bonus)
+02PP020   Shortbow, composite (+5 Str bonus)
+11PP011   Shortspear
+11PP011   Shortspear
+01PP010   Shuriken
+10PP110   Siangham
+10SS110   Sickle
+00BB010   Sling
+00BB010   Sling
+11PP021   Spear
+10SS010   Sword, bastard
+10SS010   Sword, bastard
+10PP110   Sword, short
+10PP110   Sword, short
+10SS020   Sword, two-bladed
+10PP010   Trident
+10SS020   Urgrosh, dwarven
+10SS010   Waraxe, dwarven
+10BB010   Warhammer
+10SS010   Whip

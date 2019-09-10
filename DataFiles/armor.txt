@@ -1,0 +1,101 @@
+//armor/light armor/metal armor/tower shield
+1100 Padded 
+1100 Padded 
+1100 Leather
+1100 Leather
+1100 Leather
+1100 Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1100 Studded Leather
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1110 Chain shirt 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1000 Hide 
+1010 Scale Mail 
+1010 Scale Mail
+1010 Scale Mail
+1010 Chainmail 
+1010 Chainmail
+1010 Chainmail
+1010 Chainmail
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Breastplate
+1010 Splint Mail
+1010 Splint Mail
+1010 Splint Mail
+1010 Banded Mail
+1010 Banded Mail
+1010 Banded Mail
+1010 Banded Mail
+1010 Half-plate 
+1010 Half-plate 
+1010 Half-plate 
+1010 Half-plate 
+1010 Full plate
+1010 Full plate
+1010 Full plate
+1010 Full plate
+1010 Full plate
+1010 Full plate
+1010 Full plate
+0110 Buckler 
+0100 Shield, light wooden 
+0100 Shield, light wooden 
+0110 Shield, light steel
+0000 Shield, heavy wooden 
+0000 Shield, heavy wooden 
+0010 Shield, heavy steel 
+0011 Shield, tower 

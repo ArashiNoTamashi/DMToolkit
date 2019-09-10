@@ -1,0 +1,24 @@
+// name Mods(S/D/I/W/C/Cha) LA #Skills Skill name & number ranks (2 in bluff = bluff2) #Abilities Abilities
+//name
+Aasimar(planetouched)
+//Stat Mods
+0
+0
+0
+2
+0
+2
+//LA
+0
+//Number of Skills
+2
+//Skills
+Listen2
+Spot2
+//Num of Abilities
+0
+//Abilities
+//Base attack adjustment
+0
+//Damage Reduction
+0
