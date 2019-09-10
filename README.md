@@ -54,17 +54,15 @@ RESOURCES:
 
 The majority of the tables were pulled from the Magic Item Compendium for D&D 3.5. The skill points 
     and ability score modifiers are from the D&D 3.5 Players Handbook. The character background 
-    generator was pulled from Central Casting. 
-
-We don't own or claim authorship for any of these, WotC owns the D&D books, and Task Force Games owns
-    Central Casting. What we DID do is assemble everything into one convenient spot and do all the 
-    coding for the toolkit. 
+    generator was pulled from the DMG. 
+    
+What we DID do is assemble everything into one convenient, automated toolkit and do all the 
+    coding. 
 
 ------------------------------------------------------------------------------------------------------    
     
 KNOWN BUGS:
 
--The armor does not function correctly. They print blank lines.
 -Weapons are generic
 -Too many "*"'s when the room number is 10 or higher.
 
@@ -75,8 +73,7 @@ THINGS BEING WORKED ON:
 -Room Generator
     -Door type/number
     -# of "*"'s bug
--Weapons only print out total +'s and weapon type
--Armor bug
+-Weapons only print out total +'s and weapon type (+7 longsword)
 -Character Generator (per DMG rules, designed for NPC's)
 
 FUTURE STUFF:
@@ -84,4 +81,4 @@ FUTURE STUFF:
 -Fractional treasure
 -Interface
 -Making lists read with a single, easily expandable convention
-
+-Complete the armor generation system
